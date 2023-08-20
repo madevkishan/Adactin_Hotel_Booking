@@ -24,6 +24,7 @@ class SelectHotelLocators:
 
     selecthotel_loc_radio_xpath = '//input[@name="radiobutton_0"]'
     continue_loc_btn_xpath ='//input[@name="continue"]'
+    errormsg_select_loc_xpath = "//label[text()='Please Select a Hotel']"
 
 class BookHotelLocators:
 

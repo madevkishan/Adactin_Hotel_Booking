@@ -558,3 +558,54 @@
 08/19/2023 08:37:23 PM: INFO: Search button clicked
 08/19/2023 08:37:24 PM: INFO: Option selected
 08/19/2023 08:37:27 PM: INFO: Continue Button selected
+08/20/2023 06:49:27 AM: INFO: Username Entered
+08/20/2023 06:49:27 AM: INFO: Password Entered
+08/20/2023 06:49:28 AM: INFO: Login button clicked
+08/20/2023 06:49:28 AM: INFO: Sydney selected
+08/20/2023 06:49:29 AM: INFO: Hotel Creek selected
+08/20/2023 06:49:31 AM: INFO: Standard selected
+08/20/2023 06:49:32 AM: INFO: Two rooms selected
+08/20/2023 06:49:33 AM: INFO: Check In dates Entered
+08/20/2023 06:49:34 AM: INFO: Check out dates Entered
+08/20/2023 06:49:35 AM: INFO: 3 Adult selected
+08/20/2023 06:49:36 AM: INFO: 4 children selected
+08/20/2023 06:49:37 AM: INFO: Search button clicked
+08/20/2023 06:51:35 AM: INFO: Username Entered
+08/20/2023 06:51:35 AM: INFO: Password Entered
+08/20/2023 06:51:38 AM: INFO: Login button clicked
+08/20/2023 06:51:38 AM: INFO: Sydney selected
+08/20/2023 06:51:39 AM: INFO: Hotel Creek selected
+08/20/2023 06:51:40 AM: INFO: Standard selected
+08/20/2023 06:51:41 AM: INFO: Two rooms selected
+08/20/2023 06:51:42 AM: INFO: Check In dates Entered
+08/20/2023 06:51:44 AM: INFO: Check out dates Entered
+08/20/2023 06:51:45 AM: INFO: 3 Adult selected
+08/20/2023 06:51:46 AM: INFO: 4 children selected
+08/20/2023 06:51:48 AM: INFO: Search button clicked
+08/20/2023 06:56:21 AM: INFO: Username Entered
+08/20/2023 06:56:21 AM: INFO: Password Entered
+08/20/2023 06:56:22 AM: INFO: Login button clicked
+08/20/2023 06:56:22 AM: INFO: Sydney selected
+08/20/2023 06:56:23 AM: INFO: Hotel Creek selected
+08/20/2023 06:56:24 AM: INFO: Standard selected
+08/20/2023 06:56:25 AM: INFO: Two rooms selected
+08/20/2023 06:56:26 AM: INFO: Check In dates Entered
+08/20/2023 06:56:27 AM: INFO: Check out dates Entered
+08/20/2023 06:56:29 AM: INFO: 3 Adult selected
+08/20/2023 06:56:30 AM: INFO: 4 children selected
+08/20/2023 06:56:32 AM: INFO: Search button clicked
+08/20/2023 06:56:33 AM: INFO: Continue Button selected
+08/20/2023 07:05:55 AM: INFO: Username Entered
+08/20/2023 07:05:55 AM: INFO: Password Entered
+08/20/2023 07:05:56 AM: INFO: Login button clicked
+08/20/2023 07:05:56 AM: INFO: Sydney selected
+08/20/2023 07:05:57 AM: INFO: Hotel Creek selected
+08/20/2023 07:05:58 AM: INFO: Standard selected
+08/20/2023 07:05:59 AM: INFO: Two rooms selected
+08/20/2023 07:06:01 AM: INFO: Check In dates Entered
+08/20/2023 07:06:02 AM: INFO: Check out dates Entered
+08/20/2023 07:06:03 AM: INFO: 3 Adult selected
+08/20/2023 07:06:04 AM: INFO: 4 children selected
+08/20/2023 07:06:06 AM: INFO: Search button clicked
+08/20/2023 07:06:07 AM: INFO: Continue Button selected
+08/20/2023 07:06:08 AM: INFO: Test case for Negative Scenario - PASSED

@@ -29,3 +29,13 @@ class SelectHotelPageActions:
         clickcontinue_we = self.driver.find_element(By.XPATH, self.select_loc_obj.continue_loc_btn_xpath)
         clickcontinue_we.click()
         self.logs_obj.info("Continue Button selected")
+
+    def verifyerrormsg(self):
+        """
+        Verifying for Error Message
+        :return:
+        """
+
+        verify_we = self.driver.find_element(By.XPATH, self.select_loc_obj.errormsg_select_loc_xpath)
+        verify_txt = verify_we.text
+        return verify_txt

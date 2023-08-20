@@ -66,7 +66,8 @@ class SearcHotelPageActions:
         """
         checkindate_we = self.driver.find_element(By.XPATH, self.search_loc_obj.checkin_loc_txt_xpath)
         checkindate_we.clear()
-        checkindate_we.send_keys("20/08/2023")
+        # checkindate_we.send_keys("20/08/2023")
+        checkindate_we.send_keys("13/07/2023") # uncomment this for negative testcase
         self.logs_obj.info("Check In dates Entered")
 
     def enter_checkoutdate(self):
@@ -77,7 +78,8 @@ class SearcHotelPageActions:
         """
         checkoutdate_we = self.driver.find_element(By.XPATH, self.search_loc_obj.checkout_loc_txt_xpath)
         checkoutdate_we.clear()
-        checkoutdate_we.send_keys("22/08/2023")
+        # checkoutdate_we.send_keys("22/08/2023")
+        checkoutdate_we.send_keys("17/07/2023") # uncomment this for negative testcase
         self.logs_obj.info("Check out dates Entered")
 
 
