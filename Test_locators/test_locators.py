@@ -36,5 +36,5 @@ class BookHotelLocators:
     expmonth_loc_dd_xpath = "//select[@name='cc_exp_month']"
     expyear_loc_dd_xpath = "//select[@name='cc_exp_year']"
     # cvv_loc_txt_xpath = "//input[@name='cc_cvv']"
-    cvv_loc_txt_xpath = "//input[@type='text']"
+    cvv_loc_txt_id = 'username_show'
     booknow_loc_btn_xpath = "//input[@name='book_now']"
